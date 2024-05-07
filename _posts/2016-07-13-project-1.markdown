@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-title: Travelling
+title: Traveling
 date: 2014-07-15
 img: travelling.jpeg
 alt: image-alt
