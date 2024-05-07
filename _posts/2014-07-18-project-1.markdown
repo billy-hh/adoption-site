@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
+date: 2018-05-05
+img: wedding.jpeg
+alt: wedding image
+project-date: May 2018
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: We were married in May of 2018! We had over 270 people with us to celebrate our marriage and share in the happy day. Sarah's uncle, Frank, made the wedding cake and our aunts, uncles, friends and family provided a huge variety of cookies for the traditional Pittsburgh cookie table!
 ---

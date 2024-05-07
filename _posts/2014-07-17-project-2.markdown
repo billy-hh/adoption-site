@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 1989-05-24
+img: sarah.jpeg
+alt: sarah
+project-date: May 1989
+client: Sarah
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Sarah is 34 years old. She was born and bred in Pittsburgh, PA. She graduated from Penn State (main campus) and currently works as a Software Engineer. When she isn't busy FaceTiming with her sister's and their respective kids, she loves to cook (mostly eat), garden, watch reality tv and read. Sarah has a total of 3 siblings and grew up surrounded by a TON of family. Her mom was the baby of 8 siblings and her dad, the baby of 7 siblings! When a big old greek and italian family, family is ALWAYS around! 
 ---

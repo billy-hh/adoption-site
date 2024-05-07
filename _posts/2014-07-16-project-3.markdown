@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 1989-12-17
+img: billy.jpeg
+alt: Billy
+project-date: December 1989
+client: Billy
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Billy is 34 years old. He was born and bred in Pittsburgh, PA. He graduated from University of Pittsburgh (main campus) and currently works as a Software Engineering Senior Manager. Billy loves to garden, hike, cook food, hangs out with the dogs and play video games. Billy has 3 siblings. 
 ---
