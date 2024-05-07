@@ -1,10 +1,9 @@
 ---
 layout: default
 modal-id: 3
-date: 1989-12-17
+date: 1980-02-02
 title: Billy
 img: billy.jpeg
 alt: Billy
-project-date: December 1989
 description: Billy is 34 years old. He was born and raised in Pittsburgh, PA. He graduated from University of Pittsburgh (main campus) and currently works as a Software Engineering Senior Manager. Billy loves to garden, hike, cook food, hangs out with the dogs and play video games. Billy has 3 siblings. 
 ---
