@@ -2,10 +2,9 @@
 layout: default
 modal-id: 5
 date: 2017-07-24
+title: Watson
 img: watson.jpeg
 alt: image-alt
 project-date: June 2017
-client: Watson
-category: Web Development
 description: Watson is our 7 year old rescue pup! We got Watson a few months after we got engaged and the summer after we moved into our first house. The backyard was amazing - fully fenced and PERFECT for a dog to enjoy! Watson's rescue organization thinks that he is part lab, part hound, and another part heeler. Meaning, he is ALWAYS hungry but beyond smart! He knows so many tricks and will cycle through them as many times you want, as long as it means that there is a treat in it for him.
 ---

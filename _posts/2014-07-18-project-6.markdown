@@ -2,10 +2,9 @@
 layout: default
 modal-id: 1
 date: 2018-05-05
+title: Our Wedding
 img: wedding.jpeg
 alt: wedding image
 project-date: May 2018
-client: Start Bootstrap
-category: Web Development
 description: We were married in May of 2018! We had over 270 people with us to celebrate our marriage and share in the happy day. Sarah's uncle, Frank, made the wedding cake and our aunts, uncles, friends and family provided a huge variety of cookies for the traditional Pittsburgh cookie table!
 ---

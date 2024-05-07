@@ -4,7 +4,7 @@ email: hello@billyandsarah.family
 url: www.billyandsarah.family
 description: "We are adopting!"
 keywords: "adopting,Pittsburgh couple adopt,pittsburgh,adoption,adoptive,birth mom,birth parent"
-skills: "Pittsburgh couple looking to expand their family. Billy and Sarah have been married for 6 years and are live in the suburbs of Pittsburgh. They both come from strong families and are excited to expand their family through adoption!"
+skills: "Pittsburgh couple looking to expand their family. Billy and Sarah have been married for 6 years and live in the suburbs of Pittsburgh with their two pups (sometimes three, we will tell you all about it, if you are interested). They both come from strong families and are excited to expand their family through adoption!"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -41,14 +41,8 @@ footer:
 social:
   - title: instagram
     url: https://www.instagram.com/billyandsarah.family
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: google
+    url: mailto:hello@billyandsarah.family
 
 # Postal address (add as many lines as necessary)
 address:
