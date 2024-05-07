@@ -6,5 +6,5 @@ title: Sarah
 img: sarah.jpeg
 alt: sarah
 project-date: May 1989
-description: Sarah is 34 years old. She was born and bred in Pittsburgh, PA. She graduated from Penn State (main campus) and currently works as a Software Engineer. When she isn't busy FaceTiming with her sister's and their respective kids, she loves to cook (mostly eat), garden, watch reality tv and read. Sarah has a total of 3 siblings and grew up surrounded by a TON of family. Her mom was the baby of 8 siblings and her dad, the baby of 7 siblings! With a large greek and italian family, family is ALWAYS around! 
+description: Sarah is 34 years old. She was born and raised in Pittsburgh, PA. She graduated from Penn State (main campus) and currently works as a Software Engineer. When she isn't busy FaceTiming with her sister's and their respective kids, she loves to cook (mostly eat), garden, watch reality tv and read. Sarah has a total of 3 siblings and grew up surrounded by a TON of family. Her mom was the baby of 8 siblings and her dad, the baby of 7 siblings! With a large greek and italian family, family is ALWAYS around! 
 ---
