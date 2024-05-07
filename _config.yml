@@ -4,7 +4,7 @@ email: hello@billyandsarah.family
 url: www.billyandsarah.family
 description: "We are adopting!"
 keywords: "adopting,Pittsburgh couple adopt,pittsburgh,adoption,adoptive,birth mom,birth parent"
-skills: "Pittsburgh couple looking to expand their family"
+skills: "Pittsburgh couple looking to expand their family. Billy and Sarah have been married for 6 years and are live in the suburbs of Pittsburgh. They both come from strong families and are excited to expand their family through adoption!"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -52,11 +52,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Pittsburgh, PA
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "Billy and Sarah have been married for 6 years and are live in the suburbs of Pittsburgh. They both come from strong families and are excited to expand their family through adoption"
 
 # Build settings
 markdown: kramdown
