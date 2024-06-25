@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+date: 2024-02-02
+title: Billy
+img: billy.jpeg
+alt: Billy
+description: Hi, I'm Billy, and I'm 34 years old. Like Sarah, I was born and raised in Pittsburgh, PA. I graduated from the University of Pittsburgh's main campus and currently work as a Software Engineering Senior Manager, a role that allows me to lead innovative projects and work with talented teams. <p> I have three siblings—two of whom live nearby, which is wonderful for frequent family gatherings, and one sister who lives in France, making for exciting international visits. In my free time, I enjoy a variety of activities. I love gardening, hiking, cooking, and tinkering with anything and everything. Spending time with our dogs and playing video games are also favorite pastimes of mine. <p> One of my passions is building and creating things. Sarah and I recently took on the project of completely renovating our laundry room. We built our own cabinets, finished a butcher block countertop, and installed a new sink together. This project was not only a great learning experience but also a testament to our teamwork and creativity. <p> I cannot wait to become a dad and to include our kids in each of our projects. I'm excited to teach them patience, perseverance, and the joy of creating something with their own hands. Sharing these experiences with them will be incredibly rewarding, and I look forward to the many lessons and memories we will make together.
+---

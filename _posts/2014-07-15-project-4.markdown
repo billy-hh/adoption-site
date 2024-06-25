@@ -6,5 +6,5 @@ title: Toby
 img: toby.jpeg
 alt: Toby
 project-date: September 2018
-description: Toby is our 5 (nearly 6) year old puppy. We rescued him in the late summer of 2018. The resuce organization that we adopted him from think that he is part of lab, part hound, but mostly just very cute. He loves to ZOOM all around our house and yard. When he is not nestled up in his favorite chair in our room by the window, you can usually find him outside sunbathing.
+description: Toby is our 6 year old puppy. We rescued him in the late summer of 2018. The rescue organization that we adopted him from think that he is part of lab, part hound, but mostly just very cute. He loves to ZOOM all around our house and yard. He loves kids and is notorious for "drive by kisses". When he is not nestled up in his favorite chair in our room by the window, you can usually find him outside sunbathing.
 ---
