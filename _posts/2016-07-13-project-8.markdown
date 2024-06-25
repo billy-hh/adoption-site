@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 9
+title: Home
+date: 2013-07-11
+img: home.jpeg
+alt: image-alt
+project-date: September 2011
+description: Our home is spacious, with 4 bedrooms and 5 bathrooms, providing plenty of room for family and guests. We have a big backyard that's perfect for gardening, running around with the dogs, and kicking a soccer ball. Our front yard has a circle drive that will be perfect one day for kids riding bikes. <p> One of our favorite spaces is the large playroom on the second floor, where we spend a lot of time watching movies together. Occasionally, we set up a small bounce house for our nieces and nephews to enjoy. <p> We cannot wait until the day when this playroom is filled with books and toys for our own kids. It will be a place of laughter, learning, and endless fun, creating countless cherished memories for our growing family.
+---
