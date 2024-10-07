@@ -6,5 +6,5 @@ date: 2014-07-15
 img: travelling.jpeg
 alt: image-alt
 project-date: September 2019
-description: Sarah and Billy love to travel. Together we have been to 6 countries, countless states, and our annual trip to Hilton Head each summer with Billy (and sometimes Sarah's) family.
+description: Sarah and Billy love to travel. Together we have been to 6 countries - though independently, it's 12 - countless states, and our annual beach trip to Hilton Head each summer with Billy (and sometimes Sarah's) family.
 ---
